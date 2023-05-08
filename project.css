@@ -1,0 +1,114 @@
+button{
+    margin-right: 10px;
+    width: 135px;
+    height: 40px;
+    font-family: Roboto;
+    font-size: medium;
+}
+
+a{
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.nav-link{
+    font-size: 93%;
+    color: rgb(17, 17, 17);
+}
+
+.private-div{
+    margin-left: 15px;
+}
+
+
+.container-fluid{
+    background-color: rgb(242, 242, 242);
+    right: 0%;
+}
+
+
+.fixed-bottom{
+    background-color: rgb(242, 242, 242);
+    right: 0%; 
+}
+
+#first-nav-bar{
+    font-family: Roboto;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-bottom: 0px solid black; 
+}
+
+#second-nav-bar{
+    font-size: 90%;
+    font-family: Roboto;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#for-border{
+    border-bottom: 1px solid rgb(218, 220, 224);  
+}
+
+.nav-link{
+    color: rgb(86, 89, 92);
+}
+
+#mid-nav-bar{
+    margin-left: 20%;
+    font-size: small;
+}
+
+#left-nav-bar{
+    margin-left: 540px;
+}
+
+.container {
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inline-block-child {
+    display: inline-block;
+  }
+
+.parent{
+    border: 1px solid rgb(244, 244, 244);
+    width: 550px;
+    height: 45px;
+    margin: 5px;
+}  
+  
+#for-search-bar{
+    border: 0px solid rgb(244, 244, 244);
+    outline: none;
+    margin-left: 10px;
+    width: 380px;
+}
+
+.inside-div{
+    margin: 10px;
+    margin-left: 15px;
+}
+
+
+#for-google-image{
+    margin-left: 16%;
+}
+
+.button-div{
+    margin-top: 15px;
+    margin-left: 16%;
+
+}
+
+#lucky-button{
+    width: 250px;
+}
+
+
+
